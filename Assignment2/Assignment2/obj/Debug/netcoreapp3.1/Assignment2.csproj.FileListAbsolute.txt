@@ -1,0 +1,13 @@
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.exe
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.deps.json
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.json
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.dev.json
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.dll
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.pdb
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.csprojAssemblyReference.cache
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfoInputs.cache
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfo.cs
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.csproj.CoreCompileInputs.cache
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.dll
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.pdb
+D:\Taustajärjestelmät\Tehtävä2\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.genruntimeconfig.cache
